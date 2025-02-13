@@ -1,4 +1,4 @@
-# 🎬 **Flixx App** - Discover Movies & TV Shows
+# 🎬 **Flix App** - Discover Movies & TV Shows
 
 Welcome to **Flixx App**, the ultimate movie and TV show info app built with **vanilla JavaScript** and powered by the **TMDB API**. Discover popular movies, explore TV shows, and dive into detailed pages with ratings, reviews, and more!
 
